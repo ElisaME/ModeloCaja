@@ -1,0 +1,16 @@
+div{
+	border:4px #8181F7 solid;
+	background-color: #81F7F3; 
+}
+p{
+	background-color: #F6CEF5;
+	border: 4px dashed #BE81F7;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 30px;
+	text-align: center;
+	font-family: Arial;
+	color:#04B4AE;
+	letter-spacing: 3px;
+	font-weight: bold;
+}
